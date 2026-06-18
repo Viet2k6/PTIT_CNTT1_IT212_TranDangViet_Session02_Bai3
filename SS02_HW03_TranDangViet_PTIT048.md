@@ -41,6 +41,4 @@ Biểu thức chính quy `[a-zA-Z0-9 ]*` dùng để kiểm tra chuỗi chỉ ch
 
 Việc sử dụng API chuẩn của Java giúp hạn chế nguy cơ Hallucination và đảm bảo mã nguồn có thể biên dịch, vận hành đúng trong thực tế.
 
-```
 
-```
